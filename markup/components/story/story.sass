@@ -1,0 +1,112 @@
+.story
+	display: flex
+	justify-content: space-between
+	list-style-type: none
+	padding: 0
+	margin: 0
+	width: 100%
+	height: 100vh
+	&__item
+		position: relative
+		display: flex
+		overflow: hidden
+		flex: 1 1 0%
+		background-color: #396
+		+tr(.6s .2s)
+		&:after
+			content: ""
+			+coverdiv
+			background-color: #000
+			opacity: .2
+			pointer-events: none
+			+tr(.6s .3s)
+		&:hover
+			flex-grow: 2
+			.ppp
+				top: 50%
+				opacity: 1
+				transition: .4s .6s
+		&:hover:after
+			opacity: 0
+		&.is-active
+			flex-grow: 200
+		&_1
+			background: #396 url(../img/content/demo-1.jpg) 0% 50% no-repeat
+			background-size: cover
+		&_2
+			+g(#4d617b, #8cafaa)
+		&_3
+			+g(#a86833, #c58087)
+		&_4
+			+g(#4d617b, #a3c5c0)
+	&__link
+		position: relative
+		width: 100%
+		display: flex
+		align-items: flex-end
+		justify-content: center
+		color: #fff
+		&:hover
+			.story__link_footer
+				margin-bottom: 50px
+		&_footer
+			display: flex
+			align-items: center
+			justify-content: center
+			margin-bottom: 20px
+			+tr(.4s)
+	&__title
+		margin-bottom: 0
+		font-size: 11px
+		color: #fff
+		letter-spacing: 2px
+		text-transform: uppercase
+		+hr
+
+	&__num
+		display: inline-block
+		vertical-align: top
+		width: 30px
+		height: 30px
+		border-radius: 100%
+		border: 2px solid #fff
+		text-align: center
+		font-size: 14px
+		line-height: 30px
+		margin-right: 10px
+		+hr
+		+box
+
+.ppp
+	position: absolute
+	top: 20px
+	left: 270px
+	display: flex
+	align-items: center
+	justify-content: space-between
+	background-color: #fff
+	border-radius: 16px
+	padding: 14px 16px
+	// border: 1px solid #000
+	transition: .4s .0s
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1)
+	opacity: 0
+	+trx(-50%)
+	&:after
+		content: ''
+		position: absolute
+		top: 100%
+		left: 50%
+		+trx(-50%)
+		+arr(15, 7, #fff, b)
+	&-icon
+		display: inline-block
+		vertical-align: top
+		width: 16px
+		margin-left: 16px
+		g
+			fill: #000
+	&__desc
+		font-size: 14px
+		color: #404040
+		+hl

@@ -1,0 +1,21 @@
+<svg class="river" viewBox="0 0 4343 238" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="graphics/water">
+        <path id="water" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6239V366H0V0Z" fill="url(#paint0_linear)" />
+        <path id="water copy" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6239V366H0V0Z" fill="url(#paint1_linear)" />
+        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="6239" height="366">
+            <path id="water copy_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6239V366H0V0Z" fill="white" />
+        </mask>
+        <g mask="url(#mask0)">
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3119.5) scale(6239 366) rotate(90)">
+            <stop stop-color="#9BC7D4" />
+            <stop offset="1" stop-color="#74AEAE" />
+        </linearGradient>
+        <linearGradient id="paint1_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3119.5) scale(6239 366) rotate(90)">
+            <stop stop-color="#A4C7D0" />
+            <stop offset="1" stop-color="#86ADAD" />
+        </linearGradient>
+    </defs>
+</svg>

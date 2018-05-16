@@ -1,0 +1,75 @@
+.camera
+	overflow: auto
+	// background-color: #465
+
+.horizontal
+	position: fixed
+	top: 0
+	display: block
+	margin: 0
+	// background: #abc
+	overflow: auto
+	font-size: 0
+	pointer-events: none
+	left: 0
+	// background: url('../img/content/river-all.svg') 50% 50% no-repeat
+	// background-image: url('../img/content/river-all.svg')
+	// background-size: 138% 74%
+	// background-position: 0 0
+	// background-repeat: no-repeat
+
+.viewport
+  display: inline-block
+  vertical-align: top
+  position: relative
+  width: 100vw
+  height: 100vh
+  // background: #cab
+  color: #fff
+  font-size: 16px
+  padding: 50px
+  +box
+  &-2
+  	// background-color: #423
+
+/*-------*/
+
+.sky
+	position: absolute
+	top: -2%
+	left: 0
+	right: 0
+	background-repeat: no-repeat
+.river
+	position: absolute
+	top: 33%
+	left: 0
+	right: 0
+	height: 18%
+
+.dock
+	display: inline-block
+	vertical-align: top
+	height: 800px
+	position: absolute
+	top: 12%
+	left: 0
+	z-index: 5
+
+.boat
+	display: inline-block
+	vertical-align: top
+	height: 90px
+	position: absolute
+	top: 34%
+	left: 50vw
+	+trx(-55px)
+	+tr(.4s)
+	#client,
+	#characters
+		opacity: 0
+	&.in-boat
+		+tr(0s)
+		#client,
+		#characters
+			opacity: 1

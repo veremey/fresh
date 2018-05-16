@@ -1,0 +1,87 @@
+<svg  viewBox="0 0 4343 238" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="graphics/water">
+        <path id="water" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6239V366H0V0Z" fill="url(#paint0_linear)" />
+        <path id="water copy" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6239V366H0V0Z" fill="url(#paint1_linear)" />
+        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="6239" height="366">
+            <path id="water copy_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6239V366H0V0Z" fill="white" />
+        </mask>
+        <g mask="url(#mask0)">
+        </g>
+    </g>
+    <g id="hill-foreground-01">
+        <g id="graphics/hills/hill-03">
+            <path id="Oval 2 Copy 2" fill-rule="evenodd" clip-rule="evenodd" d="M415.723 732.18C645.32 732.18 831.446 568.276 831.446 366.09C831.446 163.904 645.32 0 415.723 0C186.126 0 0 163.904 0 366.09C0 568.276 186.126 732.18 415.723 732.18Z" transform="translate(588.554 134)" fill="#CDCEB7" />
+            <path id="Oval 2 Copy 3" fill-rule="evenodd" clip-rule="evenodd" d="M415.723 732.18C645.32 732.18 831.446 568.276 831.446 366.09C831.446 163.904 645.32 0 415.723 0C186.126 0 0 163.904 0 366.09C0 568.276 186.126 732.18 415.723 732.18Z" transform="translate(561 135.82)" fill="#D2D3BD" />
+        </g>
+        <g id="graphics/trees/tree-08">
+            <g id="graphics/trees/tree-08_2">
+                <path id="Oval 2" fill-rule="evenodd" clip-rule="evenodd" d="M22.5 3C34.9264 3 45 2.32843 45 1.5C45 0.671573 34.9264 0 22.5 0C10.0736 0 0 0.671573 0 1.5C0 2.32843 10.0736 3 22.5 3Z" transform="translate(990 155)" fill="#30312A" fill-opacity="0.3" />
+                <path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6V10.5H0V0Z" transform="translate(1009.5 146)" fill="#9AA37D" />
+                <path id="Triangle 6" fill-rule="evenodd" clip-rule="evenodd" d="M21.75 0L43.5 123H0L21.75 0Z" transform="translate(991.5 26)" fill="#B7C198" />
+                <path id="Triangle 6 Copy" fill-rule="evenodd" clip-rule="evenodd" d="M21 0V123H0L21 0Z" transform="translate(991.5 26)" fill="#8A9766" fill-opacity="0.7" />
+            </g>
+        </g>
+        <g id="graphics/trees/small-tree-02 copy">
+            <g id="graphics/trees/small-tree-02">
+                <path id="Oval 2_2" fill-rule="evenodd" clip-rule="evenodd" d="M20 2C31.0457 2 40 1.55228 40 1C40 0.447715 31.0457 0 20 0C8.9543 0 0 0.447715 0 1C0 1.55228 8.9543 2 20 2Z" transform="translate(773 199)" fill="#30312A" fill-opacity="0.3" />
+                <path id="Rectangle_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6.25V6H0V0Z" transform="translate(789.25 194)" fill="#9AA37D" />
+                <path id="Triangle 6_2" fill-rule="evenodd" clip-rule="evenodd" d="M18.75 0L37.5 61H0L18.75 0Z" transform="translate(774.25 135)" fill="#96A171" />
+                <path id="Triangle 6 Copy_2" fill-rule="evenodd" clip-rule="evenodd" d="M18.75 0V61H0L18.75 0Z" transform="translate(774.25 135)" fill="#78825B" />
+            </g>
+        </g>
+        <g id="graphics/trees/tree-06">
+            <g id="graphics/trees/tree-06_2">
+                <path id="Oval 2_3" fill-rule="evenodd" clip-rule="evenodd" d="M23 2C35.7025 2 46 1.55228 46 1C46 0.447715 35.7025 0 23 0C10.2975 0 0 0.447715 0 1C0 1.55228 10.2975 2 23 2Z" transform="translate(847 226)" fill="#30312A" fill-opacity="0.3" />
+                <path id="Rectangle_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6.57143V9H0V0Z" transform="translate(865.984 218)" fill="#9AA37D" />
+                <path id="Triangle 6_3" fill-rule="evenodd" clip-rule="evenodd" d="M21.9048 0L43.8095 99H0L21.9048 0Z" transform="translate(847.73 122)" fill="#B7C198" />
+                <path id="Triangle 6 Copy_3" fill-rule="evenodd" clip-rule="evenodd" d="M21.9048 0V99H0L21.9048 0Z" transform="translate(847.73 122)" fill="#8A9766" fill-opacity="0.7" />
+            </g>
+        </g>
+        <g id="graphics/trees/tree-05">
+            <g id="graphics/trees/tree-05_2">
+                <path id="Oval 2_4" fill-rule="evenodd" clip-rule="evenodd" d="M23 2C35.7025 2 46 1.55228 46 1C46 0.447715 35.7025 0 23 0C10.2975 0 0 0.447715 0 1C0 1.55228 10.2975 2 23 2Z" transform="translate(1019 170)" fill="#30312A" fill-opacity="0.3" />
+                <path id="Rectangle_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6.57143V8H0V0Z" transform="translate(1038.71 163)" fill="#9AA37D" />
+                <path id="Triangle 6_4" fill-rule="evenodd" clip-rule="evenodd" d="M22.1786 0L44.3571 82H0L22.1786 0Z" transform="translate(1020.64 84)" fill="#A0AC83" />
+                <path id="Triangle 6 Copy_4" fill-rule="evenodd" clip-rule="evenodd" d="M21.3571 0V82H0L21.3571 0Z" transform="translate(1020.64 84)" fill="#8D986F" fill-opacity="0.7" />
+            </g>
+        </g>
+        <g id="graphics/trees/small-tree-01 copy 2">
+            <g id="graphics/trees/small-tree-01">
+                <path id="Oval 2_5" fill-rule="evenodd" clip-rule="evenodd" d="M20 2C31.0457 2 40 1.55228 40 1C40 0.447715 31.0457 0 20 0C8.9543 0 0 0.447715 0 1C0 1.55228 8.9543 2 20 2Z" transform="translate(911 156)" fill="#30312A" fill-opacity="0.3" />
+                <path id="Rectangle_5" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H6.4V6H0V0Z" transform="translate(928.6 151)" fill="#9AA37D" />
+                <path id="Triangle 6_5" fill-rule="evenodd" clip-rule="evenodd" d="M19.2 0L38.4 65H0L19.2 0Z" transform="translate(912.6 89)" fill="#9CAC76" />
+                <path id="Triangle 6 Copy_5" fill-rule="evenodd" clip-rule="evenodd" d="M19.2 0V65H0L19.2 0Z" transform="translate(912.6 89)" fill="#8C9968" fill-opacity="0.7" />
+            </g>
+        </g>
+        <g id="graphics/hills/hill-03 copy">
+            <path id="Oval 2 Copy 2_2" fill-rule="evenodd" clip-rule="evenodd" d="M227.462 457.862C353.086 457.862 454.924 355.366 454.924 228.931C454.924 102.496 353.086 0 227.462 0C101.838 0 0 102.496 0 228.931C0 355.366 101.838 457.862 227.462 457.862Z" transform="translate(1003.08 193)" fill="#C8CCB4" />
+            <path id="Oval 2 Copy 3_2" fill-rule="evenodd" clip-rule="evenodd" d="M227.462 457.862C353.086 457.862 454.924 355.366 454.924 228.931C454.924 102.496 353.086 0 227.462 0C101.838 0 0 102.496 0 228.931C0 355.366 101.838 457.862 227.462 457.862Z" transform="translate(988 194.138)" fill="#C3C7AD" />
+        </g>
+        <g id="graphics/trees/small-tree-01 copy">
+            <g id="graphics/trees/small-tree-01_2">
+                <path id="Oval 2_6" fill-rule="evenodd" clip-rule="evenodd" d="M11 2C17.0751 2 22 1.55228 22 1C22 0.447715 17.0751 0 11 0C4.92487 0 0 0.447715 0 1C0 1.55228 4.92487 2 11 2Z" transform="translate(1157 211)" fill="#30312A" fill-opacity="0.3" />
+                <path id="Rectangle_6" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H3.52V6H0V0Z" transform="translate(1166.68 206)" fill="#9AA37D" />
+                <path id="Triangle 6_6" fill-rule="evenodd" clip-rule="evenodd" d="M10.56 0L21.12 65H0L10.56 0Z" transform="translate(1157.88 144)" fill="#9CAC76" />
+                <path id="Triangle 6 Copy_6" fill-rule="evenodd" clip-rule="evenodd" d="M10.56 0V65H0L10.56 0Z" transform="translate(1157.88 144)" fill="#8C9968" fill-opacity="0.7" />
+            </g>
+        </g>
+        <g id="graphics/trees/small-tree-07">
+            <g id="graphics/trees/small-tree-07_2">
+                <path id="Oval 2_7" fill-rule="evenodd" clip-rule="evenodd" d="M29 1.84906C45.0163 1.84906 58 1.43513 58 0.924528C58 0.413925 45.0163 0 29 0C12.9837 0 0 0.413925 0 0.924528C0 1.43513 12.9837 1.84906 29 1.84906Z" transform="translate(1208 224.151)" fill="#30312A" fill-opacity="0.3" />
+                <path id="Rectangle_7" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H8.28571V8.32076H0V0Z" transform="translate(1231.94 215.83)" fill="#9AA37D" />
+                <path id="Triangle 6_7" fill-rule="evenodd" clip-rule="evenodd" d="M27.619 0L55.2381 91.5283H0L27.619 0Z" transform="translate(1208.92 128)" fill="#B7C198" />
+                <path id="Triangle 6 Copy_7" fill-rule="evenodd" clip-rule="evenodd" d="M27.619 0V91.5283H0L27.619 0Z" transform="translate(1208.92 128)" fill="#8A9766" fill-opacity="0.7" />
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3119.5) scale(6239 366) rotate(90)">
+            <stop stop-color="#9BC7D4" />
+            <stop offset="1" stop-color="#74AEAE" />
+        </linearGradient>
+        <linearGradient id="paint1_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3119.5) scale(6239 366) rotate(90)">
+            <stop stop-color="#A4C7D0" />
+            <stop offset="1" stop-color="#86ADAD" />
+        </linearGradient>
+    </defs>
+</svg>
